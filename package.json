@@ -1,0 +1,34 @@
+{
+  "name": "recipe-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^11.2.0",
+    "@ckeditor/ckeditor5-react": "^1.1.0",
+    "draft-js": "^0.10.5",
+    "firebase": "^5.7.0",
+    "react": "^16.6.3",
+    "react-ckeditor-component": "^1.1.0",
+    "react-dom": "^16.6.3",
+    "react-dropzone": "^7.0.1",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.1",
+    "react-spinners": "^0.4.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
